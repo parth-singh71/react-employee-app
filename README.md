@@ -1,3 +1,6 @@
+# Employee App
+This is my first React App (made by following Tania Rascia's tutorial- Getting Started with React - An Overview and Walkthrough Tutorial)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
